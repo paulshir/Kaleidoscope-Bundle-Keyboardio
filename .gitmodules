@@ -18,7 +18,7 @@
 	url = https://github.com/keyboardio/Arduino-HID
 [submodule "avr/libraries/Kaleidoscope"]
 	path = avr/libraries/Kaleidoscope
-	url = https://github.com/keyboardio/Kaleidoscope
+	url = https://github.com/paulshir/Kaleidoscope
 [submodule "avr/libraries/Model01-Firmware"]
 	path = avr/libraries/Model01-Firmware
 	url = https://github.com/Keyboardio/Model01-Firmware
